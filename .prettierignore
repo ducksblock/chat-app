@@ -1,0 +1,6 @@
+dist
+dist-ssr
+node_modules
+*.html
+*.css
+*.config.js
