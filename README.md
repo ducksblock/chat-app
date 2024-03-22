@@ -1,6 +1,10 @@
 # Real-time Chat App
 Built using Vite + React, NextUI, Node.js, and Socket.io
 
+#### Project Screenshot
+
+![ChatAppSS](https://github.com/ducksblock/chat-app/assets/105146670/887023b2-c394-43b7-88c5-a65e143d049f)
+
 ## How to Run
 1. Install dependencies
 ```
